@@ -1,0 +1,20 @@
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\bin\Debug\SanalKlavye.exe.config
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\bin\Debug\SanalKlavye.exe
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\bin\Debug\SanalKlavye.pdb
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\obj\Debug\SanalKlavye.Form1.resources
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\obj\Debug\SanalKlavye.Properties.Resources.resources
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\obj\Debug\SanalKlavye.csproj.GenerateResource.cache
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\obj\Debug\SanalKlavye.csproj.CoreCompileInputs.cache
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\obj\Debug\SanalKlavye.exe
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\obj\Debug\SanalKlavye.pdb
+C:\Users\AYBU\Desktop\PROJELER\SanalKlavye\SanalKlavye\obj\Debug\SanalKlavye.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\bin\Debug\SanalKlavye.exe.config
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\bin\Debug\SanalKlavye.exe
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\bin\Debug\SanalKlavye.pdb
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\obj\Debug\SanalKlavye.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\obj\Debug\SanalKlavye.Form1.resources
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\obj\Debug\SanalKlavye.Properties.Resources.resources
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\obj\Debug\SanalKlavye.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\obj\Debug\SanalKlavye.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\obj\Debug\SanalKlavye.exe
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\SanalKlavye_Duzenle\SanalKlavye\obj\Debug\SanalKlavye.pdb
